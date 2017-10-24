@@ -8,7 +8,13 @@
                 <div class="panel-heading">Dashboard</div>
 
                 <div class="panel-body">
-                    You are logged in!
+                    Bienvenid@
+
+                    <br/>
+                    {{'ID'.'->'.$a}}
+                    <br/>
+                    {{'ID'.'->'.strlen($a)}}
+
                 </div>
             </div>
         </div>
